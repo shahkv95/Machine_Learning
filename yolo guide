@@ -1,0 +1,12 @@
+
+
+
+
+copy yolo.weights in a folder 'bin' in darkflow-master 
+paste yoli.cfg in cfg folder of darkflow-master folder
+
+open visual studio code
+
+file->New File 
+save the file in darkflow folder , as a python extension.
+
