@@ -1,7 +1,5 @@
 
 
-
-
 copy yolo.weights in a folder 'bin' in darkflow-master 
 paste yoli.cfg in cfg folder of darkflow-master folder
 
